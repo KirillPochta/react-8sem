@@ -1,0 +1,17 @@
+
+th, td {
+    border: 1px solid grey;
+    width: 20%;
+
+}
+
+table {
+    border: 3px  grey;
+    width: 500px;
+}
+.badChange{
+    background-color: red;
+}
+.normalChange{
+    background-color: green;
+}
